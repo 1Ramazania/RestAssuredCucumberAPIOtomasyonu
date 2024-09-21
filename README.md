@@ -1,1 +1,1 @@
-
+This project was developed to make API automation testing processes more efficient and sustainable. Using RestAssured and Cucumber frameworks, it aims to automate testing of different API endpoints on a hotel booking website. The project is especially focused on the ability to easily test HTTP requests and to clearly express different test cases.
